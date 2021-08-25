@@ -8,9 +8,9 @@ public class CommandlineArguments {
 
 
 
-args = new String[2];
-        args[0] = "Jon Snow";
-    args[1] = "";
+//args = new String[2];
+//        args[0] = "Jon Snow";
+//    args[1] = "";
         if (args[0] == "" && args[1] == "") {
             System.out.println("please specify a name and email");
         } else if (args[1] == "") {
