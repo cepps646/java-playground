@@ -4,7 +4,7 @@ public class Application {
 
     public static void main(String[] args) {
 
-        String[] names = {"Alice", "Bob"};
+        String[] names = {"Alice", "Bob", "Carol", "Daniel"};
         System.out.println(toSentence(names));
 
 
